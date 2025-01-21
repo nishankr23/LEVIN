@@ -10,7 +10,7 @@ import sounddevice as sd
 import soundfile as sf
 import queue
 
-PYTHON_SCRIPT_PATH = r"C:\Users\sshou\Desktop\finalyearproject\pyfiles\levinproj\fetchlocation.py"
+PYTHON_SCRIPT_PATH = r"Location of fetchlocation.py"
 DIRECTIONS_FOLDER = os.path.join("dataset", "directions")
 OBJECTS_FOLDER = os.path.join("dataset", "objects")
 
